@@ -10,24 +10,43 @@ This text editor was built using an existing application and implementing method
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployed Application](#deployed-application)
+- [Demo](#demo)
 - [License](#license)
 - [Credits](#credits)
 
 
 ## Installation
-User will clone the repository. After cloning, run `npm install` to install the dependencies. Then run `npm run build` to generate the /dist folder. Lastly, run `npm run start` to open this application on your local machine.
-
+User will clone the repository. After cloning, run `npm install` to install the dependencies. Then run `npm run build` to generate the /dist folder.
 
 ## Usage
-The application can be viewed with the below links:
+Enter `npm run start` into the terminal to open this application on your local machine.
 
-* [Deployed website]()
+
+## Deployed Application
+
+Below are links to the heroku deployed website and github repository.
+
+* [Deployed website](https://hoffman-jate.herokuapp.com/)
 
 * [Code repository](https://github.com/dhoffman03/PWA-Text-Editor.git)
 
 
-![Demo of deployed webpage](./assets/pwa-demo.gif)
+## Demo 
 
+![Demo of deployed webpage](./assets/PWA-JATE.gif)
+
+* The following image is of the console log:
+
+![image of database](./assets/database.png)
+
+* The following image is of the manifest:
+
+![image of manifest](./assets/mainifest.png)
+
+* The following image is of the service worker:
+
+![image of service worker](./assets/service-worker.png)
 
 ## License
 This application is licensed under MIT.
