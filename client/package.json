@@ -7,8 +7,7 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
-    "start": "webpack --watch",
-    "heroku-postbuild": "webpack -p --config ./webpack.prod.config.js --progress"
+    "start": "webpack --watch"
   },
   "author": "2U",
   "license": "UNLICENSED",
